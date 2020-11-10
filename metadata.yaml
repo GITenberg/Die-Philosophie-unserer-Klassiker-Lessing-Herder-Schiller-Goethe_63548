@@ -1,0 +1,32 @@
+_repo: Die-Philosophie-unserer-Klassiker-Lessing-Herder-Schiller-Goethe_63548
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Vorländer, Karl
+    alias: Vorlander, Karl
+    birthdate: 1860
+    deathdate: 1928
+    gutenberg_agent_id: '52501'
+    url: http://www.gutenberg.org/2009/agents/52501
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Karl_Vorl%C3%A4nder
+    - https://de.wikipedia.org/wiki/Karl_Vorl%C3%A4nder
+description: ''
+gutenberg_issued: '2020-10-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63548'
+  lccn: '34016550'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Goethe, Johann Wolfgang von, 1749-1832 -- Philosophy'
+- !lcsh 'Lessing, Gotthold Ephraim, 1729-1781 -- Philosophy'
+- !lcsh 'Herder, Johann Gottfried, 1744-1803'
+- !lcsh 'Schiller, Friedrich, 1759-1805 -- Philosophy'
+- GITenberg
+title: 'Die Philosophie unserer Klassiker: Lessing, Herder, Schiller, Goethe'
+url: http://www.gutenberg.org/ebooks/63548
