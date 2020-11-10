@@ -1,5 +1,8 @@
 _repo: Die-Philosophie-unserer-Klassiker-Lessing-Herder-Schiller-Goethe_63548
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 63548-h/images/cover.jpg
 creator:
   author:
     agent_name: Vorländer, Karl
@@ -12,6 +15,8 @@ creator:
     - https://en.wikipedia.org/wiki/Karl_Vorl%C3%A4nder
     - https://de.wikipedia.org/wiki/Karl_Vorl%C3%A4nder
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63548#Die-Philosophie-unserer-Klassiker-Lessing-Herder-Schiller-Goethe
 gutenberg_issued: '2020-10-25'
 gutenberg_type: Text
 identifiers:
